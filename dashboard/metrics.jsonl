@@ -1,0 +1,10 @@
+{"timestamp": 1780861598.4271529, "run_id": "b0555ec9-e9b4-4978-b925-a5d755f01ec4", "round": 1, "strategy": "FedAvg", "loss": 0.11669571697711945, "accuracy": 0.76, "attack_success": 0.14}
+{"timestamp": 1780861600.1187475, "run_id": "b0555ec9-e9b4-4978-b925-a5d755f01ec4", "round": 2, "strategy": "FedAvg", "loss": 0.30138009786605835, "accuracy": 0.78, "attack_success": 0.12}
+{"timestamp": 1780861601.849701, "run_id": "b0555ec9-e9b4-4978-b925-a5d755f01ec4", "round": 3, "strategy": "FedAvg", "loss": 0.2952980399131775, "accuracy": 0.78, "attack_success": 0.12}
+{"timestamp": 1780861602.2025487, "run_id": "b0555ec9-e9b4-4978-b925-a5d755f01ec4", "round": 4, "strategy": "FedAvg", "loss": 0.30536213517189026, "accuracy": 0.8, "attack_success": 0.09999999999999998}
+{"timestamp": 1780861603.9233131, "run_id": "b0555ec9-e9b4-4978-b925-a5d755f01ec4", "round": 5, "strategy": "FedAvg", "loss": 0.29809868335723877, "accuracy": 0.8, "attack_success": 0.09999999999999998}
+{"timestamp": 1780861604.1452875, "run_id": "b0555ec9-e9b4-4978-b925-a5d755f01ec4", "round": 6, "strategy": "FedAvg", "loss": 0.3048763871192932, "accuracy": 0.8, "attack_success": 0.09999999999999998}
+{"timestamp": 1780861605.84868, "run_id": "b0555ec9-e9b4-4978-b925-a5d755f01ec4", "round": 7, "strategy": "FedAvg", "loss": 0.2974557876586914, "accuracy": 0.8, "attack_success": 0.09999999999999998}
+{"timestamp": 1780861606.1655567, "run_id": "b0555ec9-e9b4-4978-b925-a5d755f01ec4", "round": 8, "strategy": "FedAvg", "loss": 0.3048763871192932, "accuracy": 0.8, "attack_success": 0.09999999999999998}
+{"timestamp": 1780861607.8920648, "run_id": "b0555ec9-e9b4-4978-b925-a5d755f01ec4", "round": 9, "strategy": "FedAvg", "loss": 0.29706865549087524, "accuracy": 0.8, "attack_success": 0.09999999999999998}
+{"timestamp": 1780861608.154582, "run_id": "b0555ec9-e9b4-4978-b925-a5d755f01ec4", "round": 10, "strategy": "FedAvg", "loss": 0.3048763871192932, "accuracy": 0.8, "attack_success": 0.09999999999999998}
