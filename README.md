@@ -1,5 +1,7 @@
 # 🛡️ Aegis-FL: Autonomous Edge Intrusion Simulation in Federated Learning
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aegis-fl.streamlit.app/)
+
 Aegis-FL is a research-grade framework demonstrating Byzantine Fault Tolerance (BFT) defenses against model poisoning attacks in edge-based security networks.
 
 ## 🌟 Overview
