@@ -5,9 +5,6 @@
 Aegis-FL is a research-grade framework demonstrating Byzantine Fault Tolerance (BFT) defenses against model poisoning attacks in edge-based security networks.
 
 
-
-
-
 ## Overview
 Federated Learning (FL) allows edge devices to collaboratively train an anomaly detection autoencoder without sharing raw data. However, FL is highly vulnerable to **Data and Model Poisoning** (Byzantine attacks). 
 
