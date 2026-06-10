@@ -1,4 +1,4 @@
-# 🛡️ Aegis-FL: Autonomous Edge Intrusion Simulation in Federated Learning
+# Aegis-FL: Autonomous Edge Intrusion Simulation in Federated Learning
 
 [![Streamlit App]](https://aegis-fl.streamlit.app/)
 
@@ -8,12 +8,12 @@ Aegis-FL is a research-grade framework demonstrating Byzantine Fault Tolerance (
 
 
 
-## 🌟 Overview
+## Overview
 Federated Learning (FL) allows edge devices to collaboratively train an anomaly detection autoencoder without sharing raw data. However, FL is highly vulnerable to **Data and Model Poisoning** (Byzantine attacks). 
 
 Aegis-FL simulates a network of benign and malicious clients and evaluates different aggregation strategies (FedAvg, FedMedian, FedKrum) to defend the global pipeline from network collapse.
 
-## 🚀 Features
+## Features
 - **PyTorch Edge Autoencoder**: Detects network anomalies from structured IoT traffic telemetry.
 - **GenAI Sentinel Integration**: Edge nodes run highly-compressed mocked LLMs triggered by autoencoder breaches. Simulates real-world hardware latency (`time.sleep(1.5)`) dynamically on malicious traffic detection.
 - **Threat Injector**: Deterministically simulates malicious nodes injecting sign-flipped weights to sabotage the global model (`src.adversary.attacks.SignFlipAttack`).
